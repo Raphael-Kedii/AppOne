@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256004836262",
+    "firebase_url": "https://july-abda0.firebaseio.com",
+    "project_id": "july-abda0",
+    "storage_bucket": "july-abda0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256004836262:android:eea1d2057146617c3b1d67",
+        "android_client_info": {
+          "package_name": "com.globomed.julyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256004836262-45mnr15klngorvl0s59ml9eus1251sjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.globomed.julyapp",
+            "certificate_hash": "87ea9dd3e23220c7c4948f0ea9719a2d6204f0f1"
+          }
+        },
+        {
+          "client_id": "256004836262-pesv417evhmuj0c0avqm03leboaffmba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAT9KeC45ueDvw5wPEOfrgpG5N5QOKy1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256004836262-pesv417evhmuj0c0avqm03leboaffmba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
